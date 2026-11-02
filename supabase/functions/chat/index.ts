@@ -83,7 +83,7 @@ serve(async (req) => {
 
 OVER BELGOMED:
 Belgomed levert farmaceutische producten (RX, OTC), medische hulpmiddelen en verzorgingsproducten aan apotheken, ziekenhuizen en distributeurs in Europa en Afrika. GDP-gecertificeerd, FAGG-vergund. Cold chain logistiek beschikbaar.
-Adres: Trichterheideweg 11, 3500 Hasselt | info@belgomed.be | +32 11 123 456
+Adres: Stadsheide 25 bus 1, 3500 Hasselt | info@belgomed.be | +32 11 123 456
 
 STIJLREGELS:
 - Antwoord ALTIJD in MAX 2-3 korte zinnen. Direct en to-the-point.

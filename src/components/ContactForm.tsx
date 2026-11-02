@@ -79,7 +79,7 @@ const ContactForm = () => {
                 <div className="p-3 rounded-lg bg-primary/10"><MapPin className="h-5 w-5 text-primary" /></div>
                 <div>
                   <h3 className="font-semibold text-foreground">{t("contact.address")}</h3>
-                  <p className="text-sm text-muted-foreground">Trichterheideweg 11<br />3500 Hasselt</p>
+                  <p className="text-sm text-muted-foreground">Stadsheide 25 bus 1<br />3500 Hasselt</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -92,7 +92,7 @@ const ContactForm = () => {
             </div>
             <div className="rounded-lg overflow-hidden border border-border/30 mt-2">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.5!2d5.3387!3d50.9307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c121c0f0f0f0f0%3A0x0!2sTrichterheideweg%2011%2C%203500%20Hasselt!5e0!3m2!1snl!2sbe!4v1700000000000"
+                src="https://www.google.com/maps?q=Stadsheide%2025%2C%203500%20Hasselt%2C%20Belgi%C3%AB&output=embed"
                 width="100%" height="200" style={{ border: 0 }} allowFullScreen loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade" title="Belgomed locatie"
               />

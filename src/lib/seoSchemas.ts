@@ -7,7 +7,7 @@ const provider = {
   email: "info@belgomed.com",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "Trichterheideweg 11",
+    streetAddress: "Stadsheide 25 bus 1",
     addressLocality: "Hasselt",
     postalCode: "3500",
     addressCountry: "BE",
